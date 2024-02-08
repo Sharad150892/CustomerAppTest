@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-26T17:15:23 IST" name="Default suite" finished-at="2023-10-26T17:16:10 IST" duration-ms="46257">
+    <groups>
+    </groups>
+    <test started-at="2023-10-26T17:15:23 IST" name="Default test" finished-at="2023-10-26T17:16:10 IST" duration-ms="46257">
+      <class name="testData.LoginPageTest">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:testData.LoginPageTest@53fe15ff]" started-at="2023-10-26T17:15:24 IST" name="ConfigureAppium" finished-at="2023-10-26T17:15:32 IST" duration-ms="8324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method signature="performLogin()[pri:1, instance:testData.LoginPageTest@53fe15ff]" started-at="2023-10-26T17:15:32 IST" name="performLogin" finished-at="2023-10-26T17:15:43 IST" duration-ms="10998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performLogin -->
+        <test-method signature="verifyHomePage()[pri:2, instance:testData.LoginPageTest@53fe15ff]" started-at="2023-10-26T17:15:43 IST" name="verifyHomePage" finished-at="2023-10-26T17:15:50 IST" duration-ms="6661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method signature="verifySeviceListPage()[pri:3, instance:testData.LoginPageTest@53fe15ff]" started-at="2023-10-26T17:15:50 IST" name="verifySeviceListPage" finished-at="2023-10-26T17:15:56 IST" duration-ms="6557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySeviceListPage -->
+        <test-method signature="verifyDateAndTimePage()[pri:4, instance:testData.LoginPageTest@53fe15ff]" started-at="2023-10-26T17:15:56 IST" name="verifyDateAndTimePage" finished-at="2023-10-26T17:16:09 IST" duration-ms="13157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDateAndTimePage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testData.LoginPageTest@53fe15ff]" started-at="2023-10-26T17:16:09 IST" name="TearDown" finished-at="2023-10-26T17:16:10 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testData.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
